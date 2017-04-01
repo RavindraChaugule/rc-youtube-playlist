@@ -7,7 +7,7 @@ YouTube Data API V3
 This is YouTube videos gallery for website. It pulls the videos from YouTube plyalist and show it on your website with custom look. It is responsive and customizable.
 
 
-[![demo](https://placeholdit.imgix.net/~text?txtsize=22&bg=00c2ff&txtclr=ffffff&txt=DEMO&w=200&h=50)](https://ravindrachaugule.github.io/rc-youtube-playlist/index.html)
+#### --- [Demo](https://ravindrachaugule.github.io/rc-youtube-playlist/index.html) ---
 
 
 

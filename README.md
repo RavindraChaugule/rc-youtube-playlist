@@ -9,7 +9,7 @@ This is YouTube videos gallery for website. It pulls the videos from YouTube ply
 
 #### --- [Demo](https://ravindrachaugule.github.io/rc-youtube-playlist/index.html) ---
 
-
+![Custom yotube playlist](/screenshot.png "Custom yotube playlist")
 
 ### Step by Step:
 

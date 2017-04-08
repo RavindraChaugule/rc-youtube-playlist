@@ -2,7 +2,7 @@ $(function() {
 
 
 	var _playListId = 'PLCF042F294768BFD1',
-		_apiKey = 'AIzaSyA1lY_AetoFhgcyPbLPmGRiYMo3vfommOg',
+		_apiKey = 'AIzaSyDMv_Advye11OsLEyXTV6R1DhZ3xWErKyQ',
 		_videoCount = '10',
 		_vList = $('#videoWrap'),
 		_featureVideo;

@@ -35,8 +35,11 @@ document.addEventListener("DOMContentLoaded", () => {
       // Swiper carousel for thumbnail list
       // https://swiperjs.com/get-started#initialize-swiper
       var swiper = new Swiper(".swiper-container", {
-        pagination: ".swiper-pagination",
-        paginationClickable: true,
+        pagination: {
+          el: ".swiper-pagination",
+          type: "bullets",
+          clickable: true
+        },
         // direction: "vertical",
         slidesPerView: 5,
         spaceBetween: 20,

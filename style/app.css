@@ -54,19 +54,8 @@ img {
   color: #f0f0f0;
   font-weight: normal;
 }
-
 .swiper-container {
   position: static;
-}
-
-.swiper-button-prev {
-  left: -50px;
-  top: 25%;
-}
-
-.swiper-button-next {
-  right: -50px;
-  top: 25%;
 }
 .swiper-pagination-bullet {
   background: #cecece;
@@ -86,21 +75,12 @@ img {
   bottom: 0;
 }
 body.error .error-loading {
-  display: block;
+  display: block !important;
 }
 body.error .video-list {
   display: none;
 }
 @media all and (max-width: 1023px) {
-  .video-list {
-    padding: 0 50px;
-  }
-  .swiper-button-prev {
-    left: 10px;
-  }
-  .swiper-button-next {
-    right: 10px;
-  }
   .swiper-pagination {
     display: none;
   }

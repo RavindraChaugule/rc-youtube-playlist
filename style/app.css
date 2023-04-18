@@ -60,6 +60,10 @@ img {
 .swiper-pagination-bullet {
   background: #cecece;
 }
+.swiper-slide {
+  display: grid;
+  justify-content: space-around;
+}
 .error-loading {
   font-size: 22px;
   text-align: center;
